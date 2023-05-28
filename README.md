@@ -1,1 +1,1 @@
-# js.github.io
+# js-study
